@@ -1,1 +1,22 @@
+$body-bg:          				#bdc3c7;
+$navbar-inverse-bg: 			#ecf0f1;
+$brand-primary:					#2980b9;
+$navbar-inverse-brand-color: 	#2980b9;
+$jumbotron-bg: 					#ecf0f1;
+$btn-secondary-border: 			#2980b9;
+$jumbotron-padding: 			20px;
+$navbar-height:					45px;
+$btn-default-border:			#2980b9;
+$btn-border-radius-base:		10px;
+$font-family-sans-serif: 		"Helvetica Neue", Helvetica, Arial, sans-serif;
+
+
 @import 'bootstrap';
+
+.center {
+     text-align: center;
+}
+
+.navbar-brand {
+     font-weight: bold;
+}
